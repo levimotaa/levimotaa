@@ -13,7 +13,7 @@
 - 📍 Participei de projeto de **localização indoor** e notificações personalizadas
 - 🖥️ Desenvolvimento de interfaces web, landing pages e sistemas completos
 - 🏅 Pódio em hackathon com aplicação de controle financeiro
-- 🔥 Evoluindo constantemente em backend, frontend e arquitetura
+- 🔥 Evoluindo constantemente em backend e frontend
 
 ---
 
