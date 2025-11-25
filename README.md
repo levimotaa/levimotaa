@@ -55,13 +55,6 @@ Simulação de localização de clientes, envio de notificações e fluxo de com
 ### 💳 Hackathon – Controle Financeiro
 Aplicação premiada com foco em organização e métricas de gastos.
 
----
-
-## 📈 Estatísticas
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
