@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/levi-mota-39b1a1190/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=E50914&style=for-the-badge&label=VISITAS" />
+  <img src="https://komarev.com/ghpvc/?username=levimotaa&color=E50914&style=for-the-badge&label=VISITAS" />
 </p>
 
 ---
@@ -138,18 +138,18 @@ Desenvolvimento e manutenção de aplicações para fluxos jurídicos e de contr
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0d1117&title_color=E50914&icon_color=E50914&text_color=c9d1d9&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0d1117&title_color=E50914&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=levimotaa&show_icons=true&hide_border=true&bg_color=0d1117&title_color=E50914&icon_color=E50914&text_color=c9d1d9&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levimotaa&layout=compact&hide_border=true&bg_color=0d1117&title_color=E50914&text_color=c9d1d9" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&hide_border=true&background=0d1117&ring=E50914&fire=E50914&currStreakLabel=E50914&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+  <img src="https://streak-stats.demolab.com?user=levimotaa&hide_border=true&background=0d1117&ring=E50914&fire=E50914&currStreakLabel=E50914&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg" alt="snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/levimotaa/levimotaa/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/levimotaa/levimotaa/output/github-snake.svg" alt="snake" />
   </picture>
 </p>
 
