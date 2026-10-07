@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://falacines.com">
-    <img src="https://img.shields.io/badge/Fala%20Cines-E50914?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Fala%20Cines-E50914?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xIC0xMCAxMDAgMTAwIj48ZGVmcz48bWFzayBpZD0ibSIgbWFza1VuaXRzPSJ1c2VyU3BhY2VPblVzZSI%2BPGNpcmNsZSBjeD0iNDAiIGN5PSI0MCIgcj0iMjkuNSIgZmlsbD0iI2ZmZiIvPjxwYXRoIGQ9Ik00OC44OSAzNy42Mkw0MS42MyAxMC41NU00Ni41MSA0Ni41MUw2Ni4zMiAyNi42OU0zNy42MiA0OC44OUw2NC42OSA1Ni4xNE0zMS4xMSA0Mi4zOEwzOC4zNyA2OS40NU0zMy40OSAzMy40OUwxMy42OCA1My4zMU00Mi4zOCAzMS4xMUwxNS4zMSAyMy44NiIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utd2lkdGg9IjQuMiIgc3Ryb2tlLWxpbmVjYXA9InNxdWFyZSIvPjxjaXJjbGUgY3g9IjQwIiBjeT0iNDAiIHI9IjExLjUiIGZpbGw9IiMwMDAiLz48L21hc2s%2BPC9kZWZzPjxnIG1hc2s9InVybCgjbSkiPjxjaXJjbGUgY3g9IjQwIiBjeT0iNDAiIHI9IjI5LjUiIGZpbGw9IiNCOTk3NTQiLz48cGF0aCBkPSJNNDAgNDBMNDguODkgMzcuNjJMNDEuMDkgOC41MkEzMS41IDMxLjUgMCAwIDAgMzguOTEgNzEuNDhMMzEuMTEgNDIuMzhaIiBmaWxsPSIjMkE3RThEIi8%2BPC9nPjxjaXJjbGUgY3g9IjQwIiBjeT0iNDAiIHI9IjM1IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRkZGRkYiIHN0cm9rZS13aWR0aD0iNiIvPjxwYXRoIGQ9Ik04MS41IDM0LjQgOTUgMjYuNXYyN2wtMTMuNS04LjF6IiBmaWxsPSIjRkZGRkZGIiBzdHJva2U9IiNGRkZGRkYiIHN0cm9rZS13aWR0aD0iMi40IiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BPC9zdmc%2B" />
   </a>
   <a href="https://www.linkedin.com/in/levi-mota-39b1a1190/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -37,7 +37,7 @@ public class Levi {
 
 ---
 
-## 🎬 Fala Cines
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/levimotaa/levimotaa/main/assets/falacines-mark-dark.svg" /><img src="https://raw.githubusercontent.com/levimotaa/levimotaa/main/assets/falacines-mark-light.svg" alt="" height="26" align="absmiddle" /></picture> Fala Cines
 
 <table>
   <tr>
@@ -117,7 +117,7 @@ Desenvolvimento e manutenção de aplicações para fluxos jurídicos e de contr
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4>🎬 Fala Cines</h4>
+      <h4><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/levimotaa/levimotaa/main/assets/falacines-mark-dark.svg" /><img src="https://raw.githubusercontent.com/levimotaa/levimotaa/main/assets/falacines-mark-light.svg" alt="" height="20" align="absmiddle" /></picture> Fala Cines</h4>
       <p>Plataforma social de cinema focada em descoberta, avaliações e experiências compartilhadas.</p>
       <img src="https://skillicons.dev/icons?i=react,ts,supabase,tailwind,cloudflare&perline=5" height="32" />
     </td>
